@@ -171,6 +171,7 @@ export default function Home() {
         <h2>Resultado:</h2>
         <List columns={tableColumns} data={items} />
 
+        {/* @TODO separar em um componente a parte */}
         <div
           style={{
             display: "flex",
