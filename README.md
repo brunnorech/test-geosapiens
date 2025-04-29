@@ -21,13 +21,24 @@ Agradeço desde já a oportunidade!
 ## 📦 Instalação do Projeto
 
 
-### 1. Clone o repositório
+### 1. Clone o repositório e navegue ate a pasta
 
 ```bash
 git clone https://github.com/brunnorech/test-geosapiens.git
 cd test-geosapiens
-npm install
-npm run dev
 ```
 
-acesse a url: http://localhost:3000/
+### 2. Instale as deps
+
+```bash
+npm install
+```
+
+### 3. Rode o projeto e acesse a url padrao.
+
+```bash
+npm run dev
+url: http://localhost:3000/
+```
+
+
